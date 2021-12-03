@@ -1,0 +1,14 @@
+# Specific Files
+old.py
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+### Editors ###
+.idea/*
+.vscode
+.DS_store
+.venv/
+venv/
+.vscode
+__pycache__
